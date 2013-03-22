@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Error">
+      <UniqueIdentifier>{30472acb-d7f0-4112-aa46-1fdabf988dd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Camera">
+      <UniqueIdentifier>{f3c05a90-ec48-4b5f-8396-dece61adf39a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\KDObjectTree">
+      <UniqueIdentifier>{3beb79b2-3c25-41c0-9781-28404608f286}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\KDPhotonsTree">
+      <UniqueIdentifier>{e0fe7fd4-2b10-48bb-937e-3610d54de7fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\PhotonTraceEngine">
+      <UniqueIdentifier>{82bcdb81-0027-4478-a08f-66da66337289}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\RayTraceEngine">
+      <UniqueIdentifier>{20e6d1fe-d154-4939-bbf9-563ffbe01b7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MaxHeap">
+      <UniqueIdentifier>{7d70345f-2d6e-457d-99cc-a59367adad1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene">
+      <UniqueIdentifier>{238b513f-af39-4b74-8038-17752f1d92dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shapes">
+      <UniqueIdentifier>{b270eeb4-16b5-43c0-98b5-bc1b4c36c360}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Global_properties">
+      <UniqueIdentifier>{09256692-a21b-4d2a-aac1-bc2c5da613fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\TraceLib">
+      <UniqueIdentifier>{d89fb93e-6463-4f7e-8085-c1509386083a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\External libs">
+      <UniqueIdentifier>{76445c4a-98cb-4123-b579-b0c893ff8f42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\External libs\l3ds">
+      <UniqueIdentifier>{87b0d37a-eac6-4de1-9f6b-7fc895f63674}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\External libs\LoadBMP">
+      <UniqueIdentifier>{b0beb038-2565-4190-84c4-7d66e30d2f0e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\GeometryLib.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\LightSource.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\Error.h">
+      <Filter>Source Files\Error</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\Camera.h">
+      <Filter>Source Files\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\KDObjectTree.h">
+      <Filter>Source Files\KDObjectTree</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\KDPhotonsTree.h">
+      <Filter>Source Files\KDPhotonsTree</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\PhotonTraceEngine.h">
+      <Filter>Source Files\PhotonTraceEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\RayTracerEngine.h">
+      <Filter>Source Files\RayTraceEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\MaxHeap.h">
+      <Filter>Source Files\MaxHeap</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\Scene.h">
+      <Filter>Source Files\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\Shapes.h">
+      <Filter>Source Files\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\Global_properties.h">
+      <Filter>Source Files\Global_properties</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\LoadBMP.h">
+      <Filter>Source Files\External libs\LoadBMP</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\TraceLib.h">
+      <Filter>Source Files\TraceLib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\l3ds.h">
+      <Filter>Source Files\External libs\l3ds</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\Camera.cpp">
+      <Filter>Source Files\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\KDObjectTree.cpp">
+      <Filter>Source Files\KDObjectTree</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\KDPhotonsTree.cpp">
+      <Filter>Source Files\KDPhotonsTree</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\PhotonTraceEngine.cpp">
+      <Filter>Source Files\PhotonTraceEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\RayTraceEngine.cpp">
+      <Filter>Source Files\RayTraceEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\MaxHeap.cpp">
+      <Filter>Source Files\MaxHeap</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\Scene.cpp">
+      <Filter>Source Files\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\Shapes.cpp">
+      <Filter>Source Files\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\Global_properties.cpp">
+      <Filter>Source Files\Global_properties</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\LoadBMP.cpp">
+      <Filter>Source Files\External libs\LoadBMP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\TraceLib.cpp">
+      <Filter>Source Files\TraceLib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\l3ds.cpp">
+      <Filter>Source Files\External libs\l3ds</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\..\..\Мои документы\Visual Studio 2010\Projects\PPM_final_version\source\freeglut\freeglut.lib">
+      <Filter>Resource Files</Filter>
+    </Library>
+  </ItemGroup>
+</Project>
